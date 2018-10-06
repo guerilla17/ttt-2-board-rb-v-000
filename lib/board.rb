@@ -5,18 +5,22 @@ board = [" ", " ", " "," ", " ", " "," ", " ", " "]
         
  
 # Position 1: Left
-row[0]
+board[0]
  
-# Position 2: Middle
+# Position 1: Left
+board[0]
 row[1]
  
-# Position 3: Right
+# Position 1: Left
+board[0]
 row[2]
  
-# Position 4: Left
+# Position 1: Left
+board[0]
 row[3]
  
-# Position 2: Middle
+# Position 1: Left
+board[0]
 row[4]
  
 # Position 3: Right
