@@ -4,34 +4,34 @@
 board = [" ", " ", " "," ", " ", " "," ", " ", " "]
         
  
-# Position 1: Left
-board[0]
  
 # Position 1: Left
-board[0]
+board[1]
  
  
 # Position 1: Left
-board[0]
+board[2]
  
 # Position 1: Left
-board[0]
- 
- 
-# Position 1: Left
-board[0]
+board[3]
  
  
 # Position 1: Left
-board[0]
+board[4]
+ 
  
 # Position 1: Left
-board[0]
+board[5]
+ 
+# Position 1: Left
+board[6]
  
 
 # Position 1: Left
-board[0]
+board[7]
  
 # Position 1: Left
-board[0]
+board[8]
  
+ # Position 1: Left
+board[8]
